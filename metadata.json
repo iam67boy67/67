@@ -1,0 +1,6 @@
+{
+  "name": "OmniKnow - The Universal Answer Engine",
+  "description": "An all-knowing AI engineered to answer every question across science, philosophy, code, history, math, and daily life with real-time web grounding and deep reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
